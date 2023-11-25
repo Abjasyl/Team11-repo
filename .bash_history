@@ -109,3 +109,33 @@ sudo su legah
 sudo su - legah
 sudo hostnamectl set-hostname Abjasyl
 bash
+clear
+ls
+cat team11
+cd team11
+cd
+cat team112
+echo please be on time >> team112
+cat team112
+git log
+git add team112
+git log
+git show df21a8933e
+clear
+ls
+cat team112
+git add .
+git commit -m "note added"
+git log
+clear
+git config --global user.email ndomelyliane@yahoo.com 
+git config --global user.name "penda"
+git config -- global user.email ndomelyliane@yahoo.com
+clear
+ls
+cat team112
+git commit -a -m "important"
+git config --global user.email ndomelyliane@yahoo.com
+git config --global user.name "Jacques"
+git log
+exit
